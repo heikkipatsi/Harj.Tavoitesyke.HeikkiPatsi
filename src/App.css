@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+#kontsa {
+  margin: 20px;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+  padding: 1px;
+}
+input {
+  border: 1px solid;
+  border-radius: 2px;
+}
+
+output {
+  border: 1px solid;
+  border-radius: 2px;
+  padding-right: 110px;
+}
+
+button {
+  background-color: rgb(0, 132, 255);
+  font-size: 15px;
+  width: 100px;
+  height: 40px;
+  color: white;
+  border-radius: 7px;
+  border-color: rgb(134, 198, 255);
+  border-width: 3px;
+}
+
+div {
+  margin-bottom: 5px;
+}
